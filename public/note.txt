@@ -1,0 +1,9 @@
+rafce => react arrow function export components
+rcf =>  react functional components
+e.preventDefault(): The e.preventDefault() method is used to prevent the 
+default action of an event from being triggered. For example, if you have 
+a form on a web page and you want to prevent the form from being submitted 
+when the user clicks the submit button, you can use e.preventDefault() 
+in the event handler for the form's submit event. This will stop the
+ browser's default behavior of sending the form data to the server and 
+ reloading the page.
