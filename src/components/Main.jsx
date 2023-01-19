@@ -40,7 +40,7 @@ const Main = () => {
         </select>
         <button type="submit">Add</button>
       </form>
-      <ListDisplay />
+      <ListDisplay list={list} setList ={setList} />
     </div>
   );
 };
